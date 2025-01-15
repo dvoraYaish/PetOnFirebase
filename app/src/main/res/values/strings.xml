@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PetOnFirebase</string>
+    <string-array name="species_array">
+        <item>כלב</item>
+        <item>חתול</item>
+        <item>ארנב</item>
+        <item>תוכי</item>
+        <item>חמוס</item>
+        <item>שרקן</item>
+        <item>אוגר</item>
+        <item>אחר</item>
+    </string-array>
+</resources>

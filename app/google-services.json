@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900660035678",
+    "project_id": "petonfirebase",
+    "storage_bucket": "petonfirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900660035678:android:4c68649ec62c44f4bd34cf",
+        "android_client_info": {
+          "package_name": "com.example.petonfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOT6onp3Zlo5CrtE8zDjO_d3HGr0u9bI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
